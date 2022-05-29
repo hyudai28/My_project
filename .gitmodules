@@ -1,3 +1,6 @@
 [submodule "Hackathon00-Governor-of-Tokyo-Cup"]
 	path = Hackathon00-Governor-of-Tokyo-Cup
 	url = https://github.com/HinataKikuchi/Governor-of-Tokyo-Cup.git
+[submodule "discord_bot_voice_announcer"]
+	path = discord_bot_voice_announcer
+	url = https://github.com/hyudai28/-discord_bot-voice_announcer.git
